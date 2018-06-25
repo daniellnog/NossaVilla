@@ -1,0 +1,8 @@
+{
+  "name": "NossaVilla",
+  "app_id": "c05f1f50",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
